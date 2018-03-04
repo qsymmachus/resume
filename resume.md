@@ -24,7 +24,7 @@ Being a great engineer requires more than pure technical skills, especially at t
 * Lead engineer within the team: I multiply the impact of my team members by
   * Spearheading the design of new services,
   * Learning new technologies when needed, and sharing that knowledge with the team,
-  * Collaborating with other senior and staff engineers align company-wide engineering goals.
+  * Collaborating with other senior and staff engineers to align company-wide engineering goals.
 
 ##### Software Engineer, Credit Karma, 2015/04 – 2017/03
 * Lead engineer for a key user-facing API that provided members with advice on how to improve their credit.
