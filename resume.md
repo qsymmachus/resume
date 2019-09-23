@@ -7,20 +7,27 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 At the end of the day, I'm more interested in the problem I'm solving than the tool I'm using to do it.
 
-* __Used recently__: `Scala/Finagle, Typescript/Node, Thrift, MySQL`
-* __Used less recently__: `Ruby/Rails, React/Redux, PHP, Scheme, Elixir, Kafka, PostgreSQL`
+* __Used recently__: `Go, Scala/Finagle, Kubernetes/Helm, Thrift & gRPC, MySQL`
+* __Used less recently__: `Typescript/Node, Ruby/Rails, React/Redux, PHP, Scheme, Elixir, Kafka, PostgreSQL`
 
 Being a great engineer requires more than pure technical skills, especially at the senior level. Here are some I think are important:
 
-* __Project management__: I have experience leading technical projects from start to finish. I've used scrum, kanban, and XP methodologies.
+* __Project management__: I have experience leading technical projects from start to finish. I enjoy collaborating with other teams and non-technical coworkers to solve shared problems. I also leave my ego out of it.
 * __Why, not just how__: The best code is code that doesn't have to be written. I aim to prioritize work that will have the highest impact.
-* __Collaboration__: Engineers work in teams. I do my best work when I multiply the impact of my teammates.
+* __Collaboration__: Engineers work in teams – I do my best work when I multiply the impact of my teammates. I regularly mentor those who can learn from me, and seek out mentorship from those who can teach me.
 
 #### Experience
 
-##### Senior Software Engineer, Credit Karma, 2017/03 – present
-* Building a performant, distributed system for selecting, rendering, and sending notifications.
-* Lead engineer within the team: I multiply the impact of my team members by
+##### Senior Software Engineer II, Credit Karma 2019/06 – present
+* Twice the power of an ordinary senior software engineer(?)
+* Lead engineer on the dev efficiency team, a group of force multipliers building tools that speed up software development across the company.
+* Currently building powerful and elegant tools that allow teams to manage their service deployments on a Kubernetes cluster. 
+  * Blue/green deploys, service scaling, job management, and more through a slick web UI and CLI.
+
+##### Senior Software Engineer, Credit Karma, 2017/03 – 2019/05
+* Built a performant, distributed system for selecting, rendering, and sending notifications (email and push notifications).
+* My design tripled notification throughput and daily volume, at half the cost.
+* Lead engineer within the team: I multiplied the impact of my team members by
   * Spearheading the design of new services,
   * Learning new technologies when needed, and sharing that knowledge with the team,
   * Collaborating with other senior and staff engineers to align company-wide engineering goals.
@@ -33,7 +40,7 @@ Being a great engineer requires more than pure technical skills, especially at t
 ##### Software Engineer, New Avenue Inc, 2014/04 – 2015/04
 * Developed the core features of a project management platform for home construction.
 * Designed and implemented RESTful APIs and ETL processes for managing client data.
-* Led A/B marketing experiments that tripled our conversion rate.
+* Led A/B marketing experiments that tripled our conversion rate. At a small startup, you wear a lot of hats.
 
 #### Education
 
