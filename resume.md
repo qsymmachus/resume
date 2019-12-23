@@ -44,7 +44,7 @@ Being a great engineer requires more than pure technical skills, especially at t
 * Designed and implemented RESTful APIs and ETL processes for managing client data.
 * Led A/B marketing experiments that tripled our conversion rate. At a small startup, you wear a lot of hats.
 
-#### Student, Dev Bootcamp, 2014/01 – 2014/03
+##### Student, Dev Bootcamp, 2014/01 – 2014/03
 * A big career switch is easier with a little grease in the wheels. DBC helped turn my programming hobby into a career.
 
 #### Education
