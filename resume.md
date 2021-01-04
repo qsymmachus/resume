@@ -5,7 +5,7 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 #### Skills
 
-I'm a versatile engineer who has worked most recently on distributed back-end systems in a variety of domains. I aim to be a force multiplier by leading technical design, building strong teams, and collaborating effectively with all kinds of interesting people.
+I'm a versatile engineer who has worked most recently on distributed back-end systems in a variety of domains. I aim to be a force multiplier by leading technical design, building strong teams, and collaborating effectively with all kinds of people.
 
 Here's a representative list of the technologies I've worked with:
 
@@ -14,17 +14,18 @@ Here's a representative list of the technologies I've worked with:
 
 Being a great engineer requires more than pure technical skills, especially at the senior level. Here are some I think are important:
 
-* __Project management__: I have experience leading technical projects from start to finish. I enjoy collaborating with other teams and non-technical coworkers to solve shared problems. I also leave my ego out of it.
-* __Why, not just how__: The best code is code that doesn't have to be written. I aim to prioritize work that will have the highest impact.
+* __Project management__: I have experience leading technical projects from start to finish. I enjoy collaborating with other teams and non-technical coworkers to solve shared problems.
+* __Why, not just how__: The best code is code that doesn't have to be written. I prioritize work that will have the highest impact.
 * __Collaboration__: Engineers work in teams – I do my best work when I increase the impact of my teammates. I regularly mentor those who can learn from me, and seek out mentorship from those who can teach me.
 
 #### Experience
 
 ##### Senior Software Engineer II, Credit Karma 2019/06 – present
-* Twice the power of an ordinary senior software engineer(?)
-* Lead engineer on the dev efficiency team, a group of force multipliers building tools that speed up software development across the company.
-* Currently building powerful and elegant tools that allow teams to manage their service deployments on a Kubernetes cluster.
-  * Blue/green deploys, service scaling, job management, and more through a slick web UI and CLI.
+* Lead engineer on the dev efficiency team. We build tools that speed up development and deployment across the company.
+* Building powerful and elegant tools that allow teams to manage their service deployments on Kubernetes clusters.
+  * Blue/green deploys, service scaling, job management, health monitoring and more through a slick web UI and CLI.
+* I partner with other teams to learn what they need to do their jobs, and get it built.
+* I get my hands dirty deploying and debugging our tools across multiple clusters.
 
 ##### Senior Software Engineer, Credit Karma, 2017/03 – 2019/05
 * Built a performant, distributed system for selecting, rendering, and sending notifications (email and push notifications).
