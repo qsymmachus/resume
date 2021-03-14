@@ -5,48 +5,48 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 #### Skills
 
-I'm a versatile engineer who has worked most recently on distributed back-end systems in a variety of domains. I aim to be a force multiplier by leading technical design, building strong teams, and collaborating effectively with all kinds of people.
+I'm a versatile engineer who has worked most recently on distributed backend systems. I like working on horizontal teams whose tools impact an entire organization. I am a force multiplier ready to lead technical design, build strong teams, and collaborate effectively with all kinds of people.
 
-Here's a representative list of the technologies I've worked with:
+Technologies I've built with:
 
-* __Used recently__: `Go, Scala/Finagle, Kubernetes/Helm, Thrift & gRPC, MySQL`
-* __Used less recently__: `Typescript/Node, Ruby/Rails, React/Redux, Scheme, Elixir, Kafka, PostgreSQL`
+* __Used recently__: `Go, Scala, Kubernetes/Helm, GCP, Thrift & gRPC, PostgreSQL`
+* __Used less recently__: `Typescript/Node, React/Redux, Ruby/Rails, Apache Beam, Kafka, MySQL`
 
-Being a great engineer requires more than pure technical skills, especially at the senior level. Here are some I think are important:
+Problems I've solved:
 
-* __Project management__: I have experience leading technical projects from start to finish. I enjoy collaborating with other teams and non-technical coworkers to solve shared problems.
-* __Why, not just how__: The best code is code that doesn't have to be written. I prioritize work that will have the highest impact.
-* __Collaboration__: Engineers work in teams – I do my best work when I increase the impact of my teammates. I regularly mentor those who can learn from me, and seek out mentorship from those who can teach me.
+* Built services (both RPC and event driven) that serve __tens of millions of requests__ a day.
+* Crafted __successful rollout strategies__ to safely and confidently replace high-value legacy systems.
+* Lead __complex multi-year projects__ collaborating across multiple teams.
+* Mentored junior team members to __multiply their impact__ accelerate their growth.
 
 #### Experience
 
 ##### Senior Software Engineer II, Credit Karma 2019/06 – present
-* Lead engineer on the dev efficiency team. We build tools that speed up development and deployment across the company.
-* Building powerful and elegant tools that allow teams to manage their service deployments on Kubernetes clusters.
-  * Blue/green deploys, service scaling, job management, health monitoring and more through a slick web UI and CLI.
-* I partner with other teams to learn what they need to do their jobs, and get it built.
-* I get my hands dirty deploying and debugging our tools across multiple clusters.
+* Lead engineer on a team building tools that accelerate the path to production across the company.
+* Building a platform that allows teams to declaratively define common workflows and execute them automatically.
+* Helped build, optimize, and deploy a distributed system that manages all our service deployments.
+  * The system manages thousands of services across +12 Kubernetes clusters.
+  * Fronted with a Web UI and CLI that is easy for engineers to use with key safety guardrails.
 
 ##### Senior Software Engineer, Credit Karma, 2017/03 – 2019/05
-* Built a performant, distributed system for selecting, rendering, and sending notifications (email and push notifications).
-* My design tripled notification throughput and daily volume, at half the cost.
-* Lead engineer within the team: I multiplied the impact of my team members by
-  * Spearheading the design of new services,
-  * Learning new technologies when needed, and sharing that knowledge with the team,
-  * Collaborating with other senior and staff engineers to align company-wide engineering goals.
+* Designed and built a performant system for selecting, rendering, and sending notifications.
+* Crafted a successful, multi-quarter rollout strategy to safely replace our legacy notification system.
+  * My design tripled notification throughput and daily volume, at half the cost.
+  * The system reliably drives ~$50k of daily revenue.
 
 ##### Software Engineer, Credit Karma, 2015/04 – 2017/03
 * Lead engineer for a key user-facing API that provides financial advice.
 * Led a complete re-design of our internal member support tools.
-* Helped onboard new engineers by teaching classes on our toolset and best practices.
+  * Cut the time it takes member support specialists to do their jobs in half.
 
 ##### Software Engineer, New Avenue Inc, 2014/04 – 2015/04
 * Developed the core features of a project management platform for home construction.
 * Designed and implemented RESTful APIs and ETL processes for managing client data.
-* Led A/B marketing experiments that tripled our conversion rate. At a small startup, you wear a lot of hats.
+* Led A/B marketing experiments that tripled our conversion rate.
 
 ##### Student, Dev Bootcamp, 2014/01 – 2014/03
-* A big career switch is easier with a little grease in the wheels. DBC helped turn my programming hobby into a career.
+* Successfully made the shift from academia to a career in software development.
+* Learned more and faster in three months than I ever have before.
 
 #### Education
 
