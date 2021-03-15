@@ -17,7 +17,7 @@ Problems I've solved:
 * Built services (both RPC and event driven) that serve __tens of millions of requests__ a day.
 * Led __complex projects__ collaborating across many teams and delivering measurable results. 
 * Crafted __successful rollout strategies__ to confidently replace high-value legacy systems.
-* Mentored junior team members to __multiply their impact__ accelerate their growth.
+* Mentored junior team members to __multiply their impact__ and accelerate their growth.
 
 #### Experience
 
