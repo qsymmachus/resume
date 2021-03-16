@@ -36,7 +36,7 @@ Problems I've solved:
 
 ##### Software Engineer, Credit Karma, 2015/04 – 2017/03
 * Lead engineer for a key user-facing API that provides financial advice.
-* Led a complete re-design of our internal member support tools.
+* Helped lead a complete re-design of our internal member support tools.
   * Cut the time it takes member support specialists to do their jobs in half.
 
 ##### Software Engineer, New Avenue Inc, 2014/04 – 2015/04
