@@ -5,25 +5,39 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 #### Skills
 
-I'm a versatile engineer who has worked most recently on distributed backend systems. I like working on horizontal teams whose tools impact an entire organization. I am a force multiplier who delivers impactful software, builds strong teams, and collaborates effectively with all kinds of people.
+I'm a versatile engineer who specializes in building engineering platforms. I like working on horizontal teams whose work impacts an entire organization. I am a force multiplier who delivers impactful software, builds strong teams, and collaborates effectively with all kinds of people.
 
 Technologies I've built with:
 
-* __Used recently__: `Go, Scala, Kubernetes/Helm, GCP, Thrift & gRPC, PostgreSQL`
-* __Used less recently__: `Typescript/Node, React/Redux, Ruby/Rails, Apache Beam, Kafka, MySQL`
+* __Used recently__: `Go, Typescript/Node, Scala, Kubernetes/Helm, AWS, Thrift & gRPC, PostgreSQL`
+* __Used less recently__: `Scala, Ruby/Rails, Apache Beam, Kafka, MySQL`
 
 Problems I've solved:
 
+* Set engineering __strategy and direction__ for entire organizations with company-wide impact.
+* Designed and __built core frameworks__ that other engineers rely on to build their products.
 * Built services (both RPC and event driven) that serve __tens of millions of requests__ a day.
-* Led __complex projects__ collaborating across many teams and delivering measurable results. 
-* Crafted __successful rollout strategies__ to confidently replace high-value legacy systems.
+* Led __complex projects__ collaborating across many teams to deliver critical company bets. 
 * Mentored junior team members to __multiply their impact__ and accelerate their growth.
 
 #### Experience
 
-##### Senior Software Engineer II, Credit Karma 2019/06 – present
+#### Senior Staff Software Engineer, Lattice 2023/06 – present
+* Lead engineer for the entire platform organization.
+* Combines a deep understanding of customer needs, as well as the technical possibilities and limitations of our software and systems, to set strategy and direction for the engineering platform.
+* Designed and built the framework used for all event-driven flows, which handles tens of millions of events a day.
+* Continually cited as a valued mentor to both junior and experienced engineers alike.
+
+#### Staff Software Engineer, Lattice 2021/05 – 2023/06
+* Technical lead on the team responsible for core product APIs.
+* Worked at a strategic level to make technical bets that anticipated and enabled our company strategy.
+  * Placed a big bet on the effective caching of search data, which increased the performace of search functions by two orders of magnitude.
+  * Key product bets on dynamic group management and field level permissions would not have been possible without these investments.
+* Mentored a growing team of engineers, setting the technical bar for the team and guiding multiple engineers to promotions.
+
+##### Senior Software Engineer II, Credit Karma 2019/06 – 2021/04
 * Lead engineer on a team building tools that accelerate the path to production across the company.
-* Building a service that allows teams to define platform workflows and execute them automatically.
+* Built a service that allows teams to define platform workflows and execute them automatically.
 * Helped build, optimize, and deploy a distributed system that manages all our service deployments.
   * The system manages thousands of services across +12 Kubernetes clusters.
   * Fronted with a Web UI and CLI that is easy for engineers to use with key safety guardrails.
