@@ -9,8 +9,8 @@ I'm a versatile engineer who specializes in building engineering platforms. I li
 
 Technologies I've built with:
 
-* __Used recently__: `Go, Typescript/Node, Scala, Kubernetes/Helm, AWS, Thrift & gRPC, PostgreSQL`
-* __Used less recently__: `Scala, Ruby/Rails, Apache Beam, Kafka, MySQL`
+* __Used recently__: `Typescript/Node, Go, Kubernetes, AWS, gRPC, Redis, PostgreSQL`
+* __Used less recently__: `Scala, Ruby/Rails, Kafka, GCP, MySQL`
 
 Problems I've solved:
 
@@ -22,17 +22,20 @@ Problems I've solved:
 
 #### Experience
 
-#### Senior Staff Software Engineer, Lattice 2023/06 – present
+##### Senior Staff Software Engineer, Lattice 2023/06 – present
 * Lead engineer for the entire platform organization.
 * Combines a deep understanding of customer needs, as well as the technical possibilities and limitations of our software and systems, to set strategy and direction for the engineering platform.
+* Led key initiatives to address the twin problems of scale and risk.
+  * Tuned critical functions to run 2-3x orders of magnitude faster, and built tooling to democratize performance optimization.
+  * Identified and fixed our most pressing application security risks – authn/authz frameworks, tenant scoping.
 * Designed and built the framework used for all event-driven flows, which handles tens of millions of events a day.
 * Continually cited as a valued mentor to both junior and experienced engineers alike.
 
-#### Staff Software Engineer, Lattice 2021/05 – 2023/06
+##### Staff Software Engineer, Lattice 2021/05 – 2023/06
 * Technical lead on the team responsible for core product APIs.
 * Worked at a strategic level to make technical bets that anticipated and enabled our company strategy.
   * Placed a big bet on the effective caching of search data, which increased the performace of search functions by two orders of magnitude.
-  * Key product bets on dynamic group management and field level permissions would not have been possible without these investments.
+  * Key product features like dynamic group management and field level permissions would not have been possible without these investments.
 * Mentored a growing team of engineers, setting the technical bar for the team and guiding multiple engineers to promotions.
 
 ##### Senior Software Engineer II, Credit Karma 2019/06 – 2021/04
