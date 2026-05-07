@@ -5,26 +5,28 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 #### Skills
 
-I'm a versatile engineer who specializes in building engineering platforms. I like working on horizontal teams whose work impacts an entire organization. I am a force multiplier who delivers impactful software, builds strong teams, and collaborates effectively with all kinds of people.
+I'm a versatile engineer who specializes in building engineering platforms. I like working at the points of leverage that have broad impact in an organization. I am a force multiplier who delivers impactful software, builds strong teams, and collaborates effectively with all kinds of people.
 
-Technologies I've built with:
+Technically, I'm a backend specialist with deep experience building reliable, performant systems at scale. I take on ambiguous and impactful projects few other engineers could handle.
 
-* __Used recently__: `Typescript/Node, Go, Kubernetes, AWS, gRPC, Redis, PostgreSQL`
-* __Used less recently__: `Scala, Ruby/Rails, Kafka, GCP, MySQL`
+Organizationally, I operate at the strategic level. I aim to anticipate risk and opportunity months in advance. I'm self-directed and enjoy working closely with senior engineers and senior managers alike. I collaborate very effectively to achieve results, especially in high-ambiguity, cross-cutting technical work where success depends on alignment across multiple teams and disciplines.
 
 Problems I've solved:
 
 * Set engineering __strategy and direction__ for entire organizations with company-wide impact.
 * Designed and __built core frameworks__ that other engineers rely on to build their products.
-* Built services (both RPC and event driven) that serve __tens of millions of requests__ a day.
-* Led __complex projects__ collaborating across many teams to deliver critical company bets. 
-* Mentored junior team members to __multiply their impact__ and accelerate their growth.
+* Built services (both request and event driven) that serve __tens of millions of requests__ a day.
+* Led __complex projects__ collaborating across many teams to deliver critical company bets.
+* Mentored many engineers to __multiply their impact__ and accelerate their growth.
 
 #### Experience
 
+##### Principal Software Engineer, Lattice 2025/06 – present
+* Lead engineer at Lattice, responsible for guiding company engineering strategy and culture.
+
 ##### Senior Staff Software Engineer, Lattice 2023/06 – present
 * Lead engineer for the entire platform organization.
-* Combines a deep understanding of customer needs, as well as the technical possibilities and limitations of our software and systems, to set strategy and direction for the engineering platform.
+* Combined a deep understanding of customer needs, as well as the technical possibilities and limitations of our software and systems, to set strategy and direction for the engineering platform.
 * Led key initiatives to address the twin problems of scale and risk.
   * Tuned critical functions to run 2-3x orders of magnitude faster, and built tooling to democratize performance optimization.
   * Identified and fixed our most pressing application security risks – authn/authz frameworks, tenant scoping.
@@ -40,7 +42,6 @@ Problems I've solved:
 
 ##### Senior Software Engineer II, Credit Karma 2019/06 – 2021/04
 * Lead engineer on a team building tools that accelerate the path to production across the company.
-* Built a service that allows teams to define platform workflows and execute them automatically.
 * Helped build, optimize, and deploy a distributed system that manages all our service deployments.
   * The system manages thousands of services across +12 Kubernetes clusters.
   * Fronted with a Web UI and CLI that is easy for engineers to use with key safety guardrails.
@@ -56,17 +57,8 @@ Problems I've solved:
 * Helped lead a complete re-design of our internal member support tools.
   * Cut the time it takes member support specialists to do their jobs in half.
 
-##### Software Engineer, New Avenue Inc, 2014/04 – 2015/04
-* Developed the core features of a project management platform for home construction.
-* Designed and implemented RESTful APIs and ETL processes for managing client data.
-* Led A/B marketing experiments that tripled our conversion rate.
-
-##### Student, Dev Bootcamp, 2014/01 – 2014/03
-* Successfully made the shift from academia to a career in software development.
-* Learned more and faster in three months than I ever have before.
-
 #### Education
 
-* M.A. history, UC Berkeley 2013
-* M.A. medieval studies, University of Toronto 2011
-* B.A. history, _summa cum laude_, Carleton College 2009
+* M.A. history, UC Berkeley
+* M.A. medieval studies, University of Toronto
+* B.A. history, _summa cum laude_, Carleton College
