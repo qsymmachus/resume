@@ -5,33 +5,30 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 #### Skills
 
-I'm a versatile engineer who specializes in building engineering platforms. I like working at the points of leverage that have broad impact in an organization. I am a force multiplier who delivers impactful software, builds strong teams, and collaborates effectively with all kinds of people.
+**I'm a versatile engineer who specializes in working at the points of leverage that have broad impact across an organization.** I proactively take on the right problems, drive them to a reliable finish, and bring other leaders along to multiply my impact.
 
-Technically, I'm a backend specialist with deep experience building reliable, performant systems at scale. I take on ambiguous and impactful projects few other engineers could handle.
+**Technically, I'm a backend specialist with deep experience building reliable, performant systems at scale.** I take on ambiguous and impactful projects few other engineers could handle.
 
-Organizationally, I operate at the strategic level. I aim to anticipate risk and opportunity months in advance. I'm self-directed and enjoy working closely with senior engineers and senior managers alike. I collaborate very effectively to achieve results, especially in high-ambiguity, cross-cutting technical work where success depends on alignment across multiple teams and disciplines.
-
-Problems I've solved:
-
-* Set engineering __strategy and direction__ for entire organizations with company-wide impact.
-* Designed and __built core frameworks__ that other engineers rely on to build their products.
-* Built services (both request and event driven) that serve __tens of millions of requests__ a day.
-* Led __complex projects__ collaborating across many teams to deliver critical company bets.
-* Mentored many engineers to __multiply their impact__ and accelerate their growth.
+**Organizationally, I operate at the strategic level.** I aim to anticipate risk and opportunity months in advance. I collaborate effectively to achieve results, especially in high-ambiguity, cross-cutting technical work where success depends on alignment across multiple teams and disciplines.
 
 #### Experience
 
 ##### Principal Software Engineer, Lattice 2025/06 – present
 * Lead engineer at Lattice, responsible for guiding company engineering strategy and culture.
+* As part the engineering leadership team, I help ground our decision making in a deep understanding of how our systems work.
+* Raised the performance bar for our entire application – I sped up median performance by 2x, p99 performance by 1.4x. 
+  * Experimented boldly to deliver results; for example, using in-memory caching with pod-level invalidation.
+  * Introduced new frameworks to enforce a minimum performance bar so our gains would be durable.
+  * Recruited other engineers to make this a cross-cutting effort that democratized performance expertise.
+* Mentored promising engineering talent by guiding them through complex, high risk projects, and knowing when to step in and when to give them space.
 
-##### Senior Staff Software Engineer, Lattice 2023/06 – present
+##### Senior Staff Software Engineer, Lattice 2023/06 – 2025/06
 * Lead engineer for the entire platform organization.
 * Combined a deep understanding of customer needs, as well as the technical possibilities and limitations of our software and systems, to set strategy and direction for the engineering platform.
 * Led key initiatives to address the twin problems of scale and risk.
-  * Tuned critical functions to run 2-3x orders of magnitude faster, and built tooling to democratize performance optimization.
+  * Tuned critical functions to run 2-3x orders of magnitude faster, and built tooling to simplify performance optimization.
   * Identified and fixed our most pressing application security risks – authn/authz frameworks, tenant scoping.
 * Designed and built the framework used for all event-driven flows, which handles tens of millions of events a day.
-* Continually cited as a valued mentor to both junior and experienced engineers alike.
 
 ##### Staff Software Engineer, Lattice 2021/05 – 2023/06
 * Technical lead on the team responsible for core product APIs.
