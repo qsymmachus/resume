@@ -7,19 +7,19 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 **I'm a versatile engineer who specializes in working at the points of leverage that have broad impact across an organization.** I proactively take on the right problems, drive them to a reliable finish, and bring other leaders along to multiply my impact.
 
-**Technically, I'm a backend specialist with deep experience building reliable, performant systems at scale.** I take on ambiguous and impactful projects few other engineers could handle.
+Technically, I'm a backend specialist with deep experience building reliable, performant systems at scale. I have particular strength with event-driven architectures, authentication & authorization, and performance optimization. I take on ambiguous and impactful projects few other engineers could handle.
 
-**Organizationally, I operate at the strategic level.** I aim to anticipate risk and opportunity months in advance. I collaborate effectively to achieve results, especially in high-ambiguity, cross-cutting technical work where success depends on alignment across multiple teams and disciplines.
+Organizationally, I operate at the strategic level. I aim to anticipate risk and opportunity months in advance. I collaborate effectively to achieve results, especially in high-ambiguity, cross-cutting technical work where success depends on alignment across multiple teams and disciplines.
 
 #### Experience
 
 ##### Principal Software Engineer, Lattice 2025/06 – present
 * Lead engineer at Lattice, responsible for guiding company engineering strategy and culture.
-* As part the engineering leadership team, I help ground our decision making in a deep understanding of how our systems work.
+* As part of the engineering leadership team, I help ground our decisions in a deep understanding of how our systems work.
 * Raised the performance bar for our entire application – I sped up median performance by 2x, p99 performance by 1.4x. 
-  * Experimented boldly to deliver results; for example, using in-memory caching with pod-level invalidation.
-  * Introduced new frameworks to enforce a minimum performance bar so our gains would be durable.
-  * Recruited other engineers to make this a cross-cutting effort that democratized performance expertise.
+  * Experimented boldly to deliver results; for example, using safe in-memory caching of key data.
+  * Introduced new frameworks to enforce performance bars so our gains would be durable.
+  * Recruited other engineers to make this a cross-cutting effort that democratized expertise.
 * Mentored promising engineering talent by guiding them through complex, high risk projects, and knowing when to step in and when to give them space.
 
 ##### Senior Staff Software Engineer, Lattice 2023/06 – 2025/06
@@ -56,6 +56,6 @@ john@olmsted.io | [https://olmsted.io](https://olmsted.io) | [https://github.com
 
 #### Education
 
-* M.A. history, UC Berkeley
-* M.A. medieval studies, University of Toronto
-* B.A. history, _summa cum laude_, Carleton College
+* M.A. history, UC Berkeley, 2013
+* M.A. medieval studies, University of Toronto, 2011
+* B.A. history, _summa cum laude_, Carleton College, 2009
