@@ -33,7 +33,7 @@ Organizationally, I operate at the strategic level. I aim to anticipate risk and
 ##### Staff Software Engineer, Lattice 2021/05 – 2023/06
 * Technical lead on the team responsible for core product APIs.
 * Worked at a strategic level to make technical bets that anticipated and enabled our company strategy.
-  * Placed a big bet on the effective caching of search data, which increased the performace of search functions by two orders of magnitude.
+  * Placed a big bet on the effective caching of search data, which increased the performance of search functions by two orders of magnitude.
   * Key product features like dynamic group management and field level permissions would not have been possible without these investments.
 * Mentored a growing team of engineers, setting the technical bar for the team and guiding multiple engineers to promotions.
 
